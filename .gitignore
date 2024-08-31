@@ -1,0 +1,6 @@
+.venv
+data/bank
+data/bank-additional/bank-additional.csv
+notebooks/not_02_data_preprocessing.ipynb
+notebooks/not_06_model_improvement.ipynb
+notebooks/not_07_model_deployment.ipynb
